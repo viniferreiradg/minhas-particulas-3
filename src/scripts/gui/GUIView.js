@@ -1,4 +1,4 @@
-import ControlKit from '@brunoimbrizi/controlkit';
+/*import ControlKit from '@brunoimbrizi/controlkit';
 import Stats from 'stats.js';
 
 export default class GUIView {
@@ -107,4 +107,4 @@ export default class GUIView {
 		if (!this.app.webgl.composer) return;
 		this.app.webgl.composer.enabled = this.postProcessing;
 	}
-}
+} */
